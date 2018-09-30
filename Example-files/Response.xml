@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse xmlns="http://kesri.com/cources"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://kesri.com/cources course-details-schema.xsd">
+<CourseDetails>
+<id>123</id>
+<name>Spring boot course name</name>
+<description>Description: learn basics of spring</description>
+</CourseDetails>
+</GetCourseDetailsResponse>
+
